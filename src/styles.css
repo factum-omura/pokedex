@@ -31,3 +31,31 @@
 
     font-family: 'Roboto', sans-serif;
 }
+
+.nome {
+    background-color: darkgray;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 5px;
+
+    height: 8vh;
+    width: 60vh;
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+}
+
+.ilustracao {
+    background-color: darkgray;
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 60vh;
+    width: 60vh;
+    display: flex;
+    justify-content: center;
+    image-rendering: pixelated;
+    
+}
